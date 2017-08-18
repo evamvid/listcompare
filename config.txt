@@ -1,0 +1,8 @@
+[Main]
+list_checkfrom:assets.xlsx
+list_checkagainst:smalllist.csv
+column: A
+header: False
+mode: 0
+[Excel]
+sheet: 0
